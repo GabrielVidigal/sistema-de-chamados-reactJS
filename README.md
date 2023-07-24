@@ -1,6 +1,13 @@
 ## SITE
 https://sistemachamadosreact.netlify.app/
 
+## Instalação
+
+```sh
+npm i
+npm start
+```
+
 
 # Getting Started with Create React App
 
